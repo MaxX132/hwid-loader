@@ -1,5 +1,5 @@
 # Cheat Loader
-This is DLL cheat loader with HWID protection.
+This is DLL cheat loader with HWID protection coded in Python.
 ALSO
 for this project im using foreverlose
 make sure to check them out - https://discord.gg/StqMs5Sgen
