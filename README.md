@@ -5,6 +5,7 @@ for this project im using foreverlose
 make sure to check them out - https://discord.gg/StqMs5Sgen
 
 # Setup
+Runs on Python 3.7.9
 To begin you need to install requirements.txt
 
 Next replace url in loader.py with url of your dll
